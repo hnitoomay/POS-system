@@ -21,4 +21,4 @@ I used a template for the front-end design but, emphasize the parts that I build
 
 #Not in the Features
 -It is not mobile responsive 
--it is not integrated with payment system
+-it is not integrated with any payment system
